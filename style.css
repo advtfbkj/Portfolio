@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: linear-gradient(to bottom right, #0f172a, #1e3a8a, #06b6d4);
+  color: white;
+  text-align: center;
+}
+
+header {
+  padding: 20px;
+}
+
+h1 {
+  font-size: 2rem;
+  margin-bottom: 0;
+}
+
+p {
+  margin-top: 5px;
+  color: #cbd5e1;
+}
+
+.canvas-section {
+  height: 400px;
+}
+
+.projects {
+  padding: 40px 20px;
+}
+
+.card {
+  background: rgba(255, 255, 255, 0.1);
+  padding: 20px;
+  border-radius: 15px;
+  max-width: 500px;
+  margin: 20px auto;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+}
+
+.contact {
+  padding: 30px;
+}
+
+footer {
+  padding: 15px;
+  font-size: 0.9rem;
+  color: #94a3b8;
+}
